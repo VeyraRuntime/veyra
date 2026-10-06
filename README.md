@@ -28,4 +28,4 @@ ts-rust is a separate, independent project with its own roadmap and releases. Ve
 
 ## License
 
-MIT or Apache-2.0, at your option.
+MIT 
